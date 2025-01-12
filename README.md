@@ -1,4 +1,4 @@
-Este repositorio presenta los archivos anexados para la reproducción del trabajo de tesis de pregrado: "*Expansión de red en la evolución del metabolismo anaeróbico: origen de la vía de síntesis de piranopterina*", de Valentina Gómez Sáez de la Universidad de Chile, 2024.
+Este repositorio presenta los archivos anexados para la reproducción del trabajo de tesis de pregrado: "*Expansión de red en la evolución del metabolismo anaeróbico: origen de la vía de síntesis de piranopterina*", de Valentina Gómez Sáez de la Universidad de Chile, 2025.
 
 Los archivos corresponden a:
 |Numeración|Descripción|
